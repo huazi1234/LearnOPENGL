@@ -4,3 +4,5 @@
 glut库
 
 glew库
+
+GLFW库
