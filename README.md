@@ -13,3 +13,4 @@ WGL扩展
 
 不同应用程序和 OPENGL之间的关系
 
+Legacy OpenGL和Modern OpenGL
