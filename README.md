@@ -17,3 +17,8 @@ Legacy OpenGL和Modern OpenGL
 
 
 https://www.cnblogs.com/lijihong/p/5365677.html
+
+
+shader编程到底使用的是那种语言，GLSL？HLSL？CG
+
+https://blog.csdn.net/u010223072/article/category/2948579/1?
