@@ -1,0 +1,10 @@
+运行 CityEngine 需要 OpenGL 2.x 或更高版本。OpenGL 驱动通常与显卡驱动和支持的软件（例如：DirectX）一同安装。过程
+1.检测显卡类型（Windows）：
+1） 打开“运行”窗口。
+2）输入dxdiag进入 DirectX诊断工具，即列出显卡信息。
+2.检测 OpenGL版本（Windows，Mac，移动设备）
+需要安装个第三方小软件。。名字叫：OpenGLExtension Viewer。
+Windows：下载并安装OpenGLExtension Viewer。
+Mac、移动设备：在OpenGLExtension Viewer
+网页中，对应的选择从 Mac App Store、iTunes Store、Android Market下载即可。
+OpenGL Extension Viewer是个免费的应用程序，由 Realtech VR 开发。此工具可以显示当前安装的 OpenGL 版本，并且可以检测和升级显卡驱动。
