@@ -33,3 +33,6 @@ https://www.cnblogs.com/wndf6122/p/8855045.html
 
 
 OpenGL第三方库：GLAD入门篇
+
+
+https://www.jianshu.com/nb/35203532
