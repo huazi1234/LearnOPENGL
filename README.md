@@ -8,6 +8,8 @@ glew库
 GLFW库
 WGL扩展
 
+OpenGL第三方库：GLAD入门篇
+
 
 不同窗口和 OPENGL之间的关系
 
@@ -28,3 +30,6 @@ https://blog.csdn.net/wang15061955806/article/category/5850785/4?
 
 
 https://www.cnblogs.com/wndf6122/p/8855045.html
+
+
+OpenGL第三方库：GLAD入门篇
