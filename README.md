@@ -36,3 +36,7 @@ OpenGL第三方库：GLAD入门篇
 
 
 https://www.jianshu.com/nb/35203532
+
+
+
+PyOpenGL 使用现代模式时总是报内存错误，原因是啥？传统版本没问题
