@@ -1,3 +1,15 @@
 
 
 glViewport设置视口大小
+
+
+gluLookAt。
+
+
+glFrustum
+
+gluPerspective
+
+glOrtho
+
+gluOrtho2D
